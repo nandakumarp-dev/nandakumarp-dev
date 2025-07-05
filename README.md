@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nandakumarp--dev-blue?logo=linkedin)](https://www.linkedin.com/in/nandakumarp-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandakumarp--dev-black?logo=github)](https://github.com/nandakumarp-dev)
 [![Email](https://img.shields.io/badge/Email-nandakumarp.dev%40gmail.com-red?logo=gmail)](mailto:nandakumarp.dev@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nandakumarp-dev.visitor-badge)
 
 I'm a passionate full-stack developer who loves building things from scratch—from clean and functional backends to smooth and responsive frontends. I enjoy transforming ideas into real-world applications using **Python**, **Django**, and **React.js**. With experience in REST APIs, relational databases, and deployment pipelines, I'm always excited to contribute, collaborate, and continue learning 🚀
 
@@ -29,33 +28,12 @@ I'm a passionate full-stack developer who loves building things from scratch—f
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🔮 [Grahastra – AI Astrology App](https://github.com/nandakumarp-dev/Grahastra)
-AI-powered platform that generates personalized horoscopes using LLaMA 3 and Django.
+![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakumarp-dev&layout=compact&theme=radical)
+![Nanda's GitHub Streak](https://streak-stats.demolab.com?user=nandakumarp-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![Grahastra Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhkdmFhZmFrNDRmbnA3eXJkNzE1cGR3OXNzcmI5a2wwZmR1b25ociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
-
----
-
-### 💼 [Job Portal](https://github.com/nandakumarp-dev/JobPortal)
-A dynamic job listing platform for employers and job seekers with full CRUD functionality.
-
-![Job Portal Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9tdnNpdzA0ZnU2bGpibWZxZ2d2eXM5dXRnZTFvaDA4YzFkbnZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
-
----
-
-### 📚 [Learning Management System (LMS)](https://github.com/nandakumarp-dev/LMS-project)
-Role-based LMS for managing courses and content for teachers and students.
-
-![LMS Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVwYzZ5a3NoaTY0dHFxeGRoMG93bWFiOXRoMmR2aTdpYXR1bnJ3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
-
----
-
-### 🎬 [CineData (IMDb Clone)](https://github.com/nandakumarp-dev/CineData)
-Movie and artist data manager with RESTful API integration and a sleek UI.
-
-![CineData Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N6cDloYmZscmx3ZWh5YWJ1ZTAwOTNvdjI1czNoMW0wZ3VoZGJmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
 
 ---
 
@@ -74,13 +52,6 @@ Movie and artist data manager with RESTful API integration and a sleek UI.
 
 ---
 
-## 📊 GitHub Stats
-
-![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakumarp-dev&layout=compact&theme=radical)
-
----
-
 ## 📬 Let's Connect
 
 Feel free to reach out for a project, collaboration, or just a friendly chat:
@@ -94,3 +65,4 @@ Feel free to reach out for a project, collaboration, or just a friendly chat:
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ⭐ If you like my work, give it a star or fork — it keeps me going!
+
