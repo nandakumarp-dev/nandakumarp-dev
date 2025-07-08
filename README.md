@@ -34,28 +34,28 @@ I'm a passionate full-stack developer who loves building things from scratch—f
 ### 🔮 [Grahastra – AI Astrology App](https://github.com/nandakumarp-dev/Grahastra)
 AI-powered platform that generates personalized horoscopes using LLaMA 3 and Django.
 
-![Grahastra Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhkdmFhZmFrNDRmbnA3eXJkNzE1cGR3OXNzcmI5a2wwZmR1b25ociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
+<!-- ![Grahastra Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhkdmFhZmFrNDRmbnA3eXJkNzE1cGR3OXNzcmI5a2wwZmR1b25ociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
 
 ---
 
 ### 💼 [Job Portal](https://github.com/nandakumarp-dev/JobPortal)
 A dynamic job listing platform for employers and job seekers with full CRUD functionality.
 
-![Job Portal Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9tdnNpdzA0ZnU2bGpibWZxZ2d2eXM5dXRnZTFvaDA4YzFkbnZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
+<!-- ![Job Portal Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9tdnNpdzA0ZnU2bGpibWZxZ2d2eXM5dXRnZTFvaDA4YzFkbnZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
 
 ---
 
 ### 📚 [Learning Management System (LMS)](https://github.com/nandakumarp-dev/LMS-project)
 Role-based LMS for managing courses and content for teachers and students.
 
-![LMS Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVwYzZ5a3NoaTY0dHFxeGRoMG93bWFiOXRoMmR2aTdpYXR1bnJ3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
+<!-- ![LMS Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVwYzZ5a3NoaTY0dHFxeGRoMG93bWFiOXRoMmR2aTdpYXR1bnJ3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
 
 ---
 
 ### 🎬 [CineData (IMDb Clone)](https://github.com/nandakumarp-dev/CineData)
 Movie and artist data manager with RESTful API integration and a sleek UI.
 
-![CineData Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N6cDloYmZscmx3ZWh5YWJ1ZTAwOTNvdjI1czNoMW0wZ3VoZGJmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif)
+<!-- ![CineData Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N6cDloYmZscmx3ZWh5YWJ1ZTAwOTNvdjI1czNoMW0wZ3VoZGJmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
 
 ---
 
