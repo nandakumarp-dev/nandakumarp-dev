@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nandakumarp--dev-blue?logo=linkedin)](https://www.linkedin.com/in/nandakumarp-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandakumarp--dev-black?logo=github)](https://github.com/nandakumarp-dev)
 [![Email](https://img.shields.io/badge/Email-nandakumarp.dev%40gmail.com-red?logo=gmail)](mailto:nandakumarp.dev@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nandakumarp-dev.visitor-badge)
 
 I'm a passionate full-stack developer who loves building things from scratch—from clean and functional backends to smooth and responsive frontends. I enjoy transforming ideas into real-world applications using **Python**, **Django**, and **React.js**. With experience in REST APIs, relational databases, and deployment pipelines, I'm always excited to contribute, collaborate, and continue learning 🚀
 
