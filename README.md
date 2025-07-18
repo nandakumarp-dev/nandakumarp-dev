@@ -88,8 +88,3 @@ Feel free to reach out for a project, collaboration, or just a friendly chat:
 🔗 **LinkedIn:** [nandakumarp-dev](https://www.linkedin.com/in/nandakumarp-dev/)  
 💻 **GitHub:** [nandakumarp-dev](https://github.com/nandakumarp-dev)
 
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-⭐ If you like my work, give it a star or fork — it keeps me going!
