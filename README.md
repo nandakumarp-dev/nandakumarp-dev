@@ -26,20 +26,25 @@
 
 ## 🛠 Tech Stack  
 
-**Languages:**  
-Python · JavaScript (ES6+) · SQL · HTML5 · CSS3  
+### 💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" />
+</p>  
 
-**Frameworks & Libraries:**  
-Django · Django REST Framework · React.js · Bootstrap · Axios  
+### ⚡ Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,react&theme=dark" />
+</p>  
 
-**Databases:**  
-PostgreSQL · MySQL · SQLite · Firebase (basic)  
+### 🗄️ Databases & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase&theme=dark" />
+</p>  
 
-**Tools & Platforms:**  
-Git · GitHub · Bitbucket · Docker · Postman · Linux CLI · Netlify · Heroku  
-
-**Other Skills:**  
-System Design · API Development · Agile Workflow · Debugging & Optimization  
+### 🔧 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,linux,vscode,netlify,heroku&theme=dark" />
+</p>  
 
 ---
 
@@ -70,17 +75,22 @@ System Design · API Development · Agile Workflow · Debugging & Optimization
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakumarp-dev&theme=github-dark-blue&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nandakumarp-dev&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakumarp-dev&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakumarp-dev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandakumarp-dev&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandakumarp-dev&theme=tokyonight" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakumarp-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38BDAE&point=FFFFFF&area=true" />
+</p>  
+
 
 ---
 
