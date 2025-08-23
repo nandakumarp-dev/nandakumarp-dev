@@ -1,90 +1,95 @@
-# Hey there 👋 I'm Nanda Kumar!
+<!-- Professional Header -->
+<h1 align="center">👋 Hi, I'm Nanda Kumar</h1>
+<h3 align="center">Full Stack Developer | Python | Django | React.js</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandakumarp--dev-blue?logo=linkedin)](https://www.linkedin.com/in/nandakumarp-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-nandakumarp--dev-black?logo=github)](https://github.com/nandakumarp-dev)
-[![Email](https://img.shields.io/badge/Email-nandakumarp.dev%40gmail.com-red?logo=gmail)](mailto:nandakumarp.dev@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Frontend+Specialist;Clean+Code+%7C+Scalable+Systems;Always+Learning+Always+Improving" alt="Typing SVG">
+</p>
 
-I'm a passionate full-stack developer who loves building things from scratch—from clean and functional backends to smooth and responsive frontends. I enjoy transforming ideas into real-world applications using **Python**, **Django**, and **React.js**. With experience in REST APIs, relational databases, and deployment pipelines, I'm always excited to contribute, collaborate, and continue learning 🚀
-
----
-
-## 💼 What I Do
-
-- 🛠️ Full-Stack Development (Python + Django + React.js)
-- 🌐 REST API Design and Integration
-- 🧠 Curious Learner | Fast Debugger | Team Collaborator
-- 🐳 Exploring Docker, Firebase, and scalable deployments
-- ✨ Currently working at **Luminar TechnoLabs** as a Python Full Stack Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandakumarp-dev/"><img src="https://img.shields.io/badge/LinkedIn-nandakumarp--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nandakumarp-dev"><img src="https://img.shields.io/badge/GitHub-nandakumarp--dev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:nandakumarp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-nandakumarp.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🧩 Tech Stack
+## 📌 About Me  
 
-- **Languages:** Python, JavaScript, SQL, HTML5, CSS3  
-- **Frameworks/Libraries:** Django, DRF, React.js, Bootstrap, jQuery, Axios  
-- **Databases:** PostgreSQL, MySQL, SQLite, Firebase (basic)  
-- **Tools:** Git, GitHub, Bitbucket, Docker (basic), Postman, Heroku, Netlify, Linux CLI  
-- **Soft Skills:** Problem-Solving, Time Management, Communication, Teamwork
-
----
-
-## 🚀 Featured Projects
-
-### 🔮 [Grahastra – AI Astrology App](https://github.com/nandakumarp-dev/Grahastra)
-AI-powered platform that generates personalized horoscopes using LLaMA 3 and Django.
-
-<!-- ![Grahastra Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhkdmFhZmFrNDRmbnA3eXJkNzE1cGR3OXNzcmI5a2wwZmR1b25ociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
+🔹 Full Stack Developer specializing in **Python (Django/DRF)** and **React.js**  
+🔹 Experienced in building **end-to-end web applications** with modern deployment practices  
+🔹 Exploring **Docker | Firebase | Cloud Infrastructure (AWS/Heroku/Netlify)**  
+🔹 Passionate about **writing clean, maintainable code** & **delivering scalable solutions**  
+🔹 Currently working at **Luminar TechnoLabs**  
 
 ---
 
-### 💼 [Job Portal](https://github.com/nandakumarp-dev/JobPortal)
-A dynamic job listing platform for employers and job seekers with full CRUD functionality.
+## 🛠 Tech Stack  
 
-<!-- ![Job Portal Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9tdnNpdzA0ZnU2bGpibWZxZ2d2eXM5dXRnZTFvaDA4YzFkbnZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
+**Languages:**  
+Python · JavaScript (ES6+) · SQL · HTML5 · CSS3  
 
----
+**Frameworks & Libraries:**  
+Django · Django REST Framework · React.js · Bootstrap · Axios  
 
-### 📚 [Learning Management System (LMS)](https://github.com/nandakumarp-dev/LMS-project)
-Role-based LMS for managing courses and content for teachers and students.
+**Databases:**  
+PostgreSQL · MySQL · SQLite · Firebase (basic)  
 
-<!-- ![LMS Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVwYzZ5a3NoaTY0dHFxeGRoMG93bWFiOXRoMmR2aTdpYXR1bnJ3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
+**Tools & Platforms:**  
+Git · GitHub · Bitbucket · Docker · Postman · Linux CLI · Netlify · Heroku  
 
----
-
-### 🎬 [CineData (IMDb Clone)](https://github.com/nandakumarp-dev/CineData)
-Movie and artist data manager with RESTful API integration and a sleek UI.
-
-<!-- ![CineData Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N6cDloYmZscmx3ZWh5YWJ1ZTAwOTNvdjI1czNoMW0wZ3VoZGJmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif) -->
+**Other Skills:**  
+System Design · API Development · Agile Workflow · Debugging & Optimization  
 
 ---
 
-## 📜 Certifications
+## 📂 Featured Projects  
 
-- 🧾 [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/a485ddf89d93)
-- 🧾 [Problem Solving (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/ba199ed745a8)
-- 🧾 [SQL (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/eb9d02f052cc)
-
----
-
-## 🎓 Education
-
-- 🎓 **Bachelor of Computer Applications (BCA)** – IGNOU *(Ongoing)*  
-- 🎓 **Bachelor of Commerce – Computer Application** – University of Kerala
+- **[Job Portal](https://github.com/nandakumarp-dev/JobPortal)** → Platform connecting job seekers and recruiters with role-based features.  
+- **[Learning Management System (LMS)](https://github.com/nandakumarp-dev/LMS-project)** → Role-based LMS for educators and learners.  
+- **[CineData (IMDb Clone)](https://github.com/nandakumarp-dev/CineData)** → RESTful movie and artist platform with sleek UI.  
+- **[Grahastra – AI App](https://github.com/nandakumarp-dev/Grahastra)** → AI-driven platform using Django + LLaMA 3.  
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education  
 
-![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakumarp-dev&layout=compact&theme=radical)
+🎓 **BCA (Ongoing)** – IGNOU  
+🎓 **B.Com (Computer Application)** – University of Kerala  
 
 ---
 
-## 📬 Let's Connect
+## 📜 Certifications  
 
-Feel free to reach out for a project, collaboration, or just a friendly chat:
+✔️ Python (Basic) – HackerRank  
+✔️ Problem Solving (Basic) – HackerRank  
+✔️ SQL (Basic) – HackerRank  
 
-📧 **Email:** [nandakumarp.dev@gmail.com](mailto:nandakumarp.dev@gmail.com)  
-🔗 **LinkedIn:** [nandakumarp-dev](https://www.linkedin.com/in/nandakumarp-dev/)  
-💻 **GitHub:** [nandakumarp-dev](https://github.com/nandakumarp-dev)
+---
 
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandakumarp-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakumarp-dev&theme=github-dark-blue&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakumarp-dev&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandakumarp-dev&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 🧩 Weekly Development Breakdown  
+
+<!--START_SECTION:waka-->
+```txt
+Python           ████████████████░░░░░░░   65%  
+JavaScript       ██████░░░░░░░░░░░░░░░░░   18%  
+React.js         ████░░░░░░░░░░░░░░░░░░░   10%  
+SQL              ██░░░░░░░░░░░░░░░░░░░░░   5%  
+Other            ░░░░░░░░░░░░░░░░░░░░░░░   2%  
