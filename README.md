@@ -78,9 +78,9 @@ System Design · API Development · Agile Workflow · Debugging & Optimization
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakumarp-dev&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandakumarp-dev&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</p>
+</p>-->
 
 ---
 
